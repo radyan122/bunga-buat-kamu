@@ -22,14 +22,10 @@
 }
 
 .title {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-content: center;
-  align-items: center;
 }
 
 .text-title {
+  align-text: center;
   color: white;
   font-family: 'Courier New', Courier, monospace;
   text-shadow: 0 0 20px white;
