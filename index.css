@@ -23,12 +23,10 @@
 
 .title {
   width: 100vh;
-  height: 100vh;
-  
+  height: 100%;
 }
 
 .text-title {
-  position: absolute;
   color: white;
   font-family: 'Courier New', Courier, monospace;
   display: flex;
