@@ -26,6 +26,7 @@
   height: 100%;
   display: flex;
   align-item: center;
+  justify-content: center;
 }
 
 .text-title {
