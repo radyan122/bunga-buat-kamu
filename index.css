@@ -40,16 +40,7 @@
   letter-spacing: 0px;
 }
 
-@media (min-width: 500px) {
-  .title {
-    letter-spacing: 20px;
-    display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-content: center;
-  align-items: center;
-  }
-}
+
 
 @keyframes typing {
   from {
