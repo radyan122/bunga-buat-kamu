@@ -22,19 +22,16 @@
 }
 
 .title {
-  width: 100vh;
-  height: 100%;
-}
-
-.text-title {
-  color: white;
-  font-family: 'Courier New', Courier, monospace;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   align-content: center;
   align-items: center;
+}
 
+.text-title {
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
   text-shadow: 0 0 20px white;
   letter-spacing: 0px;
 }
