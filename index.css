@@ -30,9 +30,7 @@
 }
 
 .text-title {
-  
-  
-
+  position: absolute;
   font-size: 40px;
   color: white;
   font-family: 'Courier New', Courier, monospace;
